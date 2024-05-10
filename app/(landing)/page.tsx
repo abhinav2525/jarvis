@@ -13,7 +13,7 @@ const LandingPage = () => {
       </div>
       <div>
         <Link href="sign-up">
-        <Button> Register</Button>
+        <Button>Register</Button>
         </Link>
       </div>
     </div>
